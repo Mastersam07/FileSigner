@@ -1,2 +1,2 @@
-classdef Sample
+classdef sample
 end

@@ -25,7 +25,7 @@ The signature is in form of your name and a timestamp of when the file was creat
   
 # Supported files types
 ```
-{py,java,js,c,php,kt,go,pl,rb,xml,cofee,css,html,dart}
+{py,java,js,c,php,kt,go,pl,rb,xml,cofee,css,html,dart,r,m}
 ```
 
 # How to contribute
