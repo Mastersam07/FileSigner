@@ -19,5 +19,6 @@ symbols = {"py": ('"""', '"""', False),
            "R": ('#', '#', True),
            "scala": ('"""', '"""', False),
            "swift": ('"""', '"""', False),
-           "cs": ('@"', '"', False)
+           "cs": ('@"', '"', False),
+           "m": ('%{', '%}', False)
            }
